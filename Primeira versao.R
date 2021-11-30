@@ -17,3 +17,8 @@
 # Tutorial para como criar branches (ramificações) do projeto
 
 # ótimo para criar partes nos projetos
+# primeiro usamos o comdando "checkout" e depois usamos "-b" para criar a nova
+# ramificação e depois usamos "nome da ramificação", dessa forma além de sairmos
+# da ramifacação que estávamos antes criamos uma nova ramificação
+# para trocar entre as ramificações que temos, usamos apenas
+# checkout "nome da ramificação"
